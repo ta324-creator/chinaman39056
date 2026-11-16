@@ -1,0 +1,45 @@
+Product Specifications
+RBS-01 / RBS-01W / RBS-01MW
+
+Model	RBS-01 (Standard model; settings can be changed using buttons on the unit)
+RBS-01W (Standard model with added wireless functionality and app compatibility)
+RBS-01MW (Enhanced waterproof model; app operation only / High durability thanks to brushless servo motor)
+Selection method	Automatic sorting based on the tilt of the weighing pan
+Processing time	Approximately 1 second / piece
+Distribution direction	4 directions (front left, front right, rear left, rear right) + non-standard (does not work and remains in your possession)
+Standard setting	Freely set the weight threshold. Six modes (Modes 1-6) can be saved to the device (retained even when the power is turned off).
+weight calibration	Features a calibration function using a 100g weight. A 100g calibration weight is included.
+communication	Bluetooth Low Energy (BLE)
+Dedicated app	RBS LINK (Free)
+iPhone/iPad (App Store) / Android (Google Play) / Windows
+Installation	Freestanding, height adjustable
+
+WHY APP MODEL
+With an app-compatible model, you can do this much.
+Comparison items
+Main unit only
+App-compatible model
+
+Real-time confirmation
+Check around the main unit.
+● Check on your screen
+
+Production quantity and weight summary
+manual
+● Automatic aggregation by standard
+
+Saving operational data
+—
+● Save and share as CSV
+
+Non-standard/Cost Estimate Notification
+Visual focus
+● Screen + Sound Effects
+
+Various settings
+Main unit button
+operation
+● Intuitive operation from the screen
+
+
+https://imotec.co.jp/robosenka/       https://dearise.com/robosenka
